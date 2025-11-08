@@ -1,0 +1,57 @@
+[
+  {
+    "file": "game:recipes/smithing/nails",
+    "op": "add",
+    "path": "/0/enabled",
+    "value": false
+  },
+  {
+    "file": "game:recipes/smithing/nails",
+    "op": "add",
+    "path": "/1/enabled",
+    "value": false
+  },
+  {
+    "C": "\\Users\\habig\\AppData\\Roaming\\Vintagestory\\assets\\survival\\itemtypes\\resource\\metalnailsandstrips.json",
+    "file": "game:itemtypes/resource/metalnailsandstrips.json",
+    "op": "replace",
+    "path": "/combustiblePropsByType/metalnailsandstrips-gold/smeltedRatio",
+    "value": 3
+  },
+  {
+    "file": "game:itemtypes/resource/metalnailsandstrips.json",
+    "op": "replace",
+    "path": "/combustiblePropsByType/metalnailsandstrips-silver/smeltedRatio",
+    "value": 3
+  },
+  {
+    "file": "game:itemtypes/resource/metalnailsandstrips.json",
+    "op": "replace",
+    "path": "/combustiblePropsByType/metalnailsandstrips-copper/smeltedRatio",
+    "value": 3
+  },
+  {
+    "file": "game:itemtypes/resource/metalnailsandstrips.json",
+    "op": "replace",
+    "path": "/combustiblePropsByType/metalnailsandstrips-bismuthbronze/smeltedRatio",
+    "value": 4
+  },
+  {
+    "file": "game:itemtypes/resource/metalnailsandstrips.json",
+    "op": "replace",
+    "path": "/combustiblePropsByType/metalnailsandstrips-blackbronze/smeltedRatio",
+    "value": 4
+  },
+  {
+    "file": "game:itemtypes/resource/metalnailsandstrips.json",
+    "op": "replace",
+    "path": "/combustiblePropsByType/metalnailsandstrips-tinbronze/smeltedRatio",
+    "value": 6
+  },
+  {
+    "file": "game:itemtypes/resource/metalnailsandstrips.json",
+    "op": "replace",
+    "path": "/combustiblePropsByType/metalnailsandstrips-iron/smeltedRatio",
+    "value": 8
+  }
+]

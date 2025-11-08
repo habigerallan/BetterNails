@@ -1,0 +1,318 @@
+[
+
+
+  {
+    "ingredient": {
+      "type": "item",
+      "code": "game:ingot-*",
+      "name": "metal",
+      "allowedVariants": [ "copper", "silver", "gold" ]
+    },
+    "pattern": [
+      [
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##"
+      ]
+    ],
+    "name": "3 sets of nails",
+    "output": {
+      "type": "item",
+      "code": "game:metalnailsandstrips-{metal}",
+      "stacksize": 3
+    }
+  },
+
+  {
+    "ingredient": {
+      "type": "item",
+      "code": "game:ingot-*",
+      "name": "metal",
+      "allowedVariants": [ "copper", "silver", "gold" ]
+    },
+    "pattern": [
+      [
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##"
+      ]
+    ],
+    "name": "6 sets of nails",
+    "output": {
+      "type": "item",
+      "code": "game:metalnailsandstrips-{metal}",
+      "stacksize": 6
+    }
+  },
+
+
+
+  {
+    "ingredient": {
+      "type": "item",
+      "code": "game:ingot-*",
+      "name": "metal",
+      "allowedVariants": [ "bismuthbronze", "blackbronze" ]
+    },
+    "pattern": [
+      [
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##"
+      ]
+    ],
+    "name": "4 sets of nails",
+    "output": {
+      "type": "item",
+      "code": "game:metalnailsandstrips-{metal}",
+      "stacksize": 4
+    }
+  },
+  {
+    "ingredient": {
+      "type": "item",
+      "code": "game:ingot-*",
+      "name": "metal",
+      "allowedVariants": [ "bismuthbronze", "blackbronze" ]
+    },
+    "pattern": [
+      [
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##"
+      ]
+    ],
+    "name": "8 sets of nails",
+    "output": {
+      "type": "item",
+      "code": "game:metalnailsandstrips-{metal}",
+      "stacksize": 8
+    }
+  },
+
+
+
+  {
+    "ingredient": {
+      "type": "item",
+      "code": "game:ingot-tinbronze",
+      "name": "metal"
+    },
+    "pattern": [
+      [
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##"
+      ]
+    ],
+    "name": "6 sets of nails",
+    "output": {
+      "type": "item",
+      "code": "game:metalnailsandstrips-tinbronze",
+      "stacksize": 6
+    }
+  },
+  {
+    "ingredient": {
+      "type": "item",
+      "code": "game:ingot-tinbronze",
+      "name": "metal"
+    },
+    "pattern": [
+      [
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##"
+      ]
+    ],
+    "name": "12 sets of nails",
+    "output": {
+      "type": "item",
+      "code": "game:metalnailsandstrips-tinbronze",
+      "stacksize": 12
+    }
+  },
+
+
+
+  {
+    "ingredient": {
+      "type": "item",
+      "code": "game:ingot-iron",
+      "name": "metal"
+    },
+    "pattern": [
+      [
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##"
+      ]
+    ],
+    "name": "8 sets of nails",
+    "output": {
+      "type": "item",
+      "code": "game:metalnailsandstrips-iron",
+      "stacksize": 8
+    }
+  },
+  {
+    "ingredient": {
+      "type": "item",
+      "code": "game:ingot-iron",
+      "name": "metal"
+    },
+    "pattern": [
+      [
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##"
+      ]
+    ],
+    "name": "16 sets of nails",
+    "output": {
+      "type": "item",
+      "code": "game:metalnailsandstrips-iron",
+      "stacksize": 16
+    }
+  },
+  {
+    "ingredient": {
+      "type": "item",
+      "code": "game:ingot-meteoriciron",
+      "name": "metal"
+    },
+    "pattern": [
+      [
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##"
+      ]
+    ],
+
+
+
+    "name": "10 sets of nails",
+    "output": {
+      "type": "item",
+      "code": "game:metalnailsandstrips-meteoriciron",
+      "stacksize": 10
+    }
+  },
+  {
+    "ingredient": {
+      "type": "item",
+      "code": "game:ingot-meteoriciron",
+      "name": "metal"
+    },
+    "pattern": [
+      [
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##"
+      ]
+    ],
+    "name": "20 sets of nails",
+    "output": {
+      "type": "item",
+      "code": "game:metalnailsandstrips-meteoriciron",
+      "stacksize": 20
+    }
+  },
+  {
+    "ingredient": {
+      "type": "item",
+      "code": "game:ingot-steel",
+      "name": "metal"
+    },
+    "pattern": [
+      [
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##"
+      ]
+    ],
+    "name": "12 sets of nails",
+    "output": {
+      "type": "item",
+      "code": "game:metalnailsandstrips-steel",
+      "stacksize": 12
+    }
+  },
+
+
+
+  {
+    "ingredient": {
+      "type": "item",
+      "code": "game:ingot-steel",
+      "name": "metal"
+    },
+    "pattern": [
+      [
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##",
+        "##_##_##"
+      ]
+    ],
+    "name": "24 sets of nails",
+    "output": {
+      "type": "item",
+      "code": "game:metalnailsandstrips-steel",
+      "stacksize": 24
+    }
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+  "type": "Content",
+  "modid": "betternails",
+  "name": "Better Nails",
+  "authors": [
+    "spiker51"
+  ],
+  "description": "Have you ever questioned the point of using higher quality metals for nails? This mod makes it so that higher quality metals yield more nails.",
+  "version": "1.0.2",
+  "dependencies": {
+    "game": "1.21.0"
+  }
+}
