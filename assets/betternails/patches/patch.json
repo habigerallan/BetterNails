@@ -12,7 +12,6 @@
     "value": false
   },
   {
-    "C": "\\Users\\habig\\AppData\\Roaming\\Vintagestory\\assets\\survival\\itemtypes\\resource\\metalnailsandstrips.json",
     "file": "game:itemtypes/resource/metalnailsandstrips.json",
     "op": "replace",
     "path": "/combustiblePropsByType/metalnailsandstrips-gold/smeltedRatio",
@@ -53,5 +52,12 @@
     "op": "replace",
     "path": "/combustiblePropsByType/metalnailsandstrips-iron/smeltedRatio",
     "value": 8
+  },
+  {
+    "dependsOn": [ { "modid": "meteoricsteel" } ],
+    "file": "meteoricsteel:patches/resource/metalnailsandstrips.json",
+    "op": "replace",
+    "path": "/3/value/smeltedRatio",
+    "value": 12
   }
 ]

@@ -1,6 +1,5 @@
 [
 
-
   {
     "ingredient": {
       "type": "item",
@@ -113,8 +112,9 @@
   {
     "ingredient": {
       "type": "item",
-      "code": "game:ingot-tinbronze",
-      "name": "metal"
+      "code": "game:ingot-*",
+      "name": "metal",
+      "allowedVariants": [ "tinbronze" ]
     },
     "pattern": [
       [
@@ -129,15 +129,16 @@
     "name": "6 sets of nails",
     "output": {
       "type": "item",
-      "code": "game:metalnailsandstrips-tinbronze",
+      "code": "game:metalnailsandstrips-{metal}",
       "stacksize": 6
     }
   },
   {
     "ingredient": {
       "type": "item",
-      "code": "game:ingot-tinbronze",
-      "name": "metal"
+      "code": "game:ingot-*",
+      "name": "metal",
+      "allowedVariants": [ "tinbronze" ]
     },
     "pattern": [
       [
@@ -155,7 +156,7 @@
     "name": "12 sets of nails",
     "output": {
       "type": "item",
-      "code": "game:metalnailsandstrips-tinbronze",
+      "code": "game:metalnailsandstrips-{metal}",
       "stacksize": 12
     }
   },
@@ -165,8 +166,9 @@
   {
     "ingredient": {
       "type": "item",
-      "code": "game:ingot-iron",
-      "name": "metal"
+      "code": "game:ingot-*",
+      "name": "metal",
+      "allowedVariants": [ "iron", "cupronickel" ]
     },
     "pattern": [
       [
@@ -181,15 +183,16 @@
     "name": "8 sets of nails",
     "output": {
       "type": "item",
-      "code": "game:metalnailsandstrips-iron",
+      "code": "game:metalnailsandstrips-{metal}",
       "stacksize": 8
     }
   },
   {
     "ingredient": {
       "type": "item",
-      "code": "game:ingot-iron",
-      "name": "metal"
+      "code": "game:ingot-*",
+      "name": "metal",
+      "allowedVariants": [ "iron", "cupronickel" ]
     },
     "pattern": [
       [
@@ -207,15 +210,16 @@
     "name": "16 sets of nails",
     "output": {
       "type": "item",
-      "code": "game:metalnailsandstrips-iron",
+      "code": "game:metalnailsandstrips-{metal}",
       "stacksize": 16
     }
   },
   {
     "ingredient": {
       "type": "item",
-      "code": "game:ingot-meteoriciron",
-      "name": "metal"
+      "code": "game:ingot-*",
+      "name": "metal",
+      "allowedVariants": [ "meteoriciron" ]
     },
     "pattern": [
       [
@@ -233,15 +237,16 @@
     "name": "10 sets of nails",
     "output": {
       "type": "item",
-      "code": "game:metalnailsandstrips-meteoriciron",
+      "code": "game:metalnailsandstrips-{metal}",
       "stacksize": 10
     }
   },
   {
     "ingredient": {
       "type": "item",
-      "code": "game:ingot-meteoriciron",
-      "name": "metal"
+      "code": "game:ingot-*",
+      "name": "metal",
+      "allowedVariants": [ "meteoriciron" ]
     },
     "pattern": [
       [
@@ -259,15 +264,16 @@
     "name": "20 sets of nails",
     "output": {
       "type": "item",
-      "code": "game:metalnailsandstrips-meteoriciron",
+      "code": "game:metalnailsandstrips-{metal}",
       "stacksize": 20
     }
   },
   {
     "ingredient": {
       "type": "item",
-      "code": "game:ingot-steel",
-      "name": "metal"
+      "code": "game:ingot-*",
+      "name": "metal",
+      "allowedVariants": [ "steel", "meteoricsteel" ]
     },
     "pattern": [
       [
@@ -282,7 +288,7 @@
     "name": "12 sets of nails",
     "output": {
       "type": "item",
-      "code": "game:metalnailsandstrips-steel",
+      "code": "game:metalnailsandstrips-{metal}",
       "stacksize": 12
     }
   },
@@ -292,8 +298,9 @@
   {
     "ingredient": {
       "type": "item",
-      "code": "game:ingot-steel",
-      "name": "metal"
+      "code": "game:ingot-*",
+      "name": "metal",
+      "allowedVariants": [ "steel", "meteoricsteel" ]
     },
     "pattern": [
       [
@@ -311,7 +318,7 @@
     "name": "24 sets of nails",
     "output": {
       "type": "item",
-      "code": "game:metalnailsandstrips-steel",
+      "code": "game:metalnailsandstrips-{metal}",
       "stacksize": 24
     }
   }

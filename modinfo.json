@@ -7,7 +7,7 @@
     "spiker51"
   ],
   "description": "Have you ever questioned the point of using higher quality metals for nails? This mod makes it so that higher quality metals yield more nails.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dependencies": {
     "game": "1.21.0"
   }
