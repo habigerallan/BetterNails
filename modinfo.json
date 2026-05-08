@@ -1,14 +1,14 @@
 {
   "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
-  "type": "Content",
+  "type": "Code",
   "modid": "betternails",
   "name": "Better Nails",
   "authors": [
     "spiker51"
   ],
-  "description": "Have you ever questioned the point of using higher quality metals for nails? This mod makes it so that higher quality metals yield more nails.",
-  "version": "1.0.3",
+  "description": "Configurable smithing output amounts for metal nails and strips.",
+  "version": "2.0.1",
   "dependencies": {
-    "game": "1.21.0"
+    "game": "1.22.0"
   }
 }

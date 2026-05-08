@@ -1,3 +1,6 @@
 {
-    "hello": "hello world!"
+  "game:item-metalnailsandstrips-tin": "Nails and Strips (Tin)",
+  "game:item-metalnailsandstrips-zinc": "Nails and Strips (Zinc)",
+  "game:item-metalnailsandstrips-lead": "Nails and Strips (Lead)",
+  "game:item-metalnailsandstrips-nickel": "Nails and Strips (Nickel)"
 }
