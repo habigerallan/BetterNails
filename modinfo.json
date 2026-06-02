@@ -7,7 +7,7 @@
     "spiker51"
   ],
   "description": "Configurable smithing output amounts for metal nails and strips.",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "dependencies": {
     "game": "1.22.0"
   }
