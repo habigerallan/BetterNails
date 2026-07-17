@@ -1,69 +1,40 @@
-Have you ever questioned the point of using higher quality metals for nails? This mod makes it so that **higher quality metals yield more nails**. 
-This mod is **fully compatible with all mods that add new ingots**, as long as they are implemented correctly. Please let me know if you run into any problems.
-This comes with a **default config**, but you can customize it to your heart’s content.
+# Better Nails
 
-**Nail Yields by Metal**:
----
-* **Horrible — Lead, Tin, Zinc, Bismuth, Molybdochalkos**
+Have you ever questioned the point of using higher quality metals for nails? This mod makes it so that higher quality metals yield more nails. This mod is fully compatible with all mods that add new ingots or nail molds, as long as they are implemented correctly. Please let me know if you run into any problems. This comes with a default config, but you can customize it to your hearts content.
+## Nail Yields by Metal
 
-  * **Standard:** 2
+**Horrible —** ***Lead, Tin, Zinc,*** ***Bismuth, Molybdochalkos***
 
-  * **Bulk:** 4
+**Standard: 2 • Bulk: 4**
 
-* **Bad — Copper, Gold, Silver, Electrum**
+**Bad —** ***Gold, Silver, Electrum***
 
-  * **Standard:** 3
+**Standard: 3 • Bulk: 6**
 
-  * **Bulk:** 6
+**Decent —** ***Copper,*** ***Nickle***
 
-* **Decent — Nickel, Bismuth Bronze, Black Bronze**
+**Standard: 4 • Bulk: 8**
 
-  * **Standard:** 4
+**Okay —** ***Brass, Tin Bronze***
 
-  * **Bulk:** 8
+**Standard: 5 • Bulk: 10**
 
-* **Okay — Brass**
+**Good —** ***Bismuth Bronze, Black Bronze***
 
-  * **Standard:** 5
+**Standard: 6 • Bulk: 12**
 
-  * **Bulk:** 10
+**Pretty Good —** ***Iron, Cupronickle***
 
-* **Good — Tin Bronze**
+**Standard: 8 • Bulk: 16**
 
-  * **Standard:** 6
+**Very Good —** ***Meteoric Iron***
 
-  * **Bulk:** 12
+**Standard: 10 • Bulk: 20**
 
-* **Pretty Good — Iron, Cupronickel**
+**Great —** ***Steel***
 
-  * **Standard:** 8
+**Standard: 12 • Bulk: 24**
 
-  * **Bulk:** 16
+**Very Great —** ***Meteoric Steel***
 
-* **Very Good — Meteoric Iron**
-
-  * **Standard:** 10
-
-  * **Bulk:** 20
-
-* **Great — Steel**
-
-  * **Standard:** 12
-
-  * **Bulk:** 24
-
-* **Very Great — Meteoric Steel**
-
-  * **Standard:** 12
-
-  * **Bulk:** 24
-
-**Confirmed Compatible:**
-
-* **Meteoric Steel**
-
-**Known Incompatible:**
-
-* **Geology Additions**
-
-  * **Platinum is not supported yet**, as it is not fully implemented at this time. Everything else should work fine.
+**Standard: 14 • Bulk: 28**
